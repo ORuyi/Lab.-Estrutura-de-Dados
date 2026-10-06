@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1791291015 source:/home/alunos/TabelaHash/TabelaHash/src/Hash.cpp
+	"Hash.h"
+
+1791291514 /home/alunos/TabelaHash/TabelaHash/include/Hash.h
+	<iostream>
+
+1791291031 source:/home/alunos/TabelaHash/TabelaHash/main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"Hash.h"
+
