@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1793715306 source:/home/alunos/atividade_stl/atividade_hoje/main.cpp
+	"Pilha.h"
+	<iostream>
+
+1793715088 /home/alunos/atividade_stl/atividade_hoje/include/Pilha.h
+	<iostream>
+	<vector>
+	<numeric>
+	<algorithm>
+
+1793715368 source:/home/alunos/atividade_stl/atividade_hoje/src/Pilha.cpp
+	"Pilha.h"
+
